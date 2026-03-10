@@ -1,12 +1,10 @@
-# Unreal Engine 核心忽略项
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-
-# Visual Studio / 缓存文件
-.vs/
 *.sln
 *.suo
+*.opensdf
+*.sdf
 *.xcworkspace
-*.tmp
+*.DS_Store
