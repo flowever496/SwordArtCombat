@@ -1,0 +1,12 @@
+# Unreal Engine 核心忽略项
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / 缓存文件
+.vs/
+*.sln
+*.suo
+*.xcworkspace
+*.tmp
